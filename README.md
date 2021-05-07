@@ -5,5 +5,5 @@ I am here to tell you guys how I succeeded in this class and what I did to get t
 
 Links to guides to help with 1600
 
-* [Tip 1](link)
+* https://github.com/kason04/tip1.git
 * [Tip 2](./tip2.md)
