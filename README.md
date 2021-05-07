@@ -5,5 +5,5 @@ I am here to tell you guys how I succeeded in this class and what I did to get t
 
 Links to guides to help with 1600
 
-* [Tip 1](./tip1.md)
+* [Tip 1](link)
 * [Tip 2](./tip2.md)
